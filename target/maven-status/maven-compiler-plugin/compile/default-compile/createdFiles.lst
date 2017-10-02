@@ -1,0 +1,4 @@
+org/forgerock/openam/auth/nodes/RandomChoiceNode$Config.class
+org/forgerock/openam/auth/nodes/RandomChoiceNodePlugin.class
+org/forgerock/openam/auth/nodes/RandomChoiceNode.class
+org/forgerock/openam/auth/nodes/RandomChoiceNode$ChoiceCollectorOutcomeProvider.class
